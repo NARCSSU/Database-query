@@ -3,7 +3,7 @@ CREATE DATABASE Petstore;
 
 
 #创建用户表 
-account USE Petstore;
+USE Petstore;
 
 CREATE TABLE account (
 	userid CHAR ( 6 ) NOT NULL,
